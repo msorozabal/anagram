@@ -8,7 +8,7 @@
 # Examples
 Anagrams may be created as a commentary on the subject. They may be a parody, a criticism or satire. For example:
 
-"New York Times" = "monkeys write"
+"New York Times" = "monkeys write" \n
 "Church of Scientology" = "rich-chosen goofy cult"
 "McDonald's restaurants" = "Uncle Sam's standard rot"
 An anagram may also be a synonym of the original word. For example:
