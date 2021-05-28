@@ -5,9 +5,3 @@
 ##### The original word or phrase is known as the subject of the anagram. Any word or phrase that exactly reproduces the letters in another order is an anagram. Someone who creates anagrams may be called an "anagrammatist",[2] and the goal of a serious or skilled anagrammatist is to produce anagrams that reflect or comment on their subject.
 
 
-# Examples
-Anagrams may be created as a commentary on the subject. They may be a parody, a criticism or satire. For example:
-
-Listen -> Silent
-Elvis -> Lives
-Conservación -> Conversación
