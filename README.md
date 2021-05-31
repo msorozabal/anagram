@@ -24,7 +24,7 @@ Solution 03 - python3:
 
   As 𝑛 gets large, the 𝑛^2 term will dominate the 𝑛 term and the 1/2 can be ignored. Therefore, this solution is 𝑂(𝑛2).
 
-Solution 5 - python3: 
+Solution 04 - python3: 
   1 µs = 1e-6 sec Big O(n)
   
  NOTE - Solution 04: loop over both strings, counting the occurrences of each letter.
