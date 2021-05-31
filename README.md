@@ -6,19 +6,19 @@
 
 # Execution Time:
 
-Solution 1 - pyspark: 
-  5 µs = 0.00000501 sec
-
-Solution 2 - python3:
+Solution 00 - python3:
   354 µs = 0.00038 sec
 
-Solution 3 - NLP: 
+Solution 01 - pyspark: 
+  5 µs = 0.00000501 sec
+
+Solution 02 - NLP: 
   141 µs = 0,000141 sec
 
-Solution 4 - python3: 
+Solution 03 - python3: 
   2 µs = 2e-6 sec. Big O(n^2) 
 
- NOTE - Solution 4: To analyze this algorithm, we need to note that each of the n characters in w1 will cause an iteration through up to n characters in the list from w2. Each of the n positions in the list will be visited once to match a character from w1. The number of visits then becomes the sum of the integers from 1 to n. We stated earlier that this can be written as
+ NOTE - Solution 03: To analyze this algorithm, we need to note that each of the n characters in w1 will cause an iteration through up to n characters in the list from w2. Each of the n positions in the list will be visited once to match a character from w1. The number of visits then becomes the sum of the integers from 1 to n. We stated earlier that this can be written as
 
   ∑𝑖=1𝑛𝑖= 𝑛(𝑛+1)/2 = 1/2* 𝑛^2+ 1/2 * 𝑛
 
@@ -27,5 +27,5 @@ Solution 4 - python3:
 Solution 5 - python3: 
   1 µs = 1e-6 sec Big O(n)
   
- NOTE - loop over both strings, counting the occurrences of each letter.
+ NOTE - Solution 04: loop over both strings, counting the occurrences of each letter.
          In the end, iterate over each letter, making sure the counts are equal.
