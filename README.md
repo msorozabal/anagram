@@ -16,4 +16,4 @@ NLP:
 141 µs = 0,000141 sec
 
 python3: 
-2 µs = 2e-6 sec
+2 µs = 2e-6 sec. Big O (n^2) 
