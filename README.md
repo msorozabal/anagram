@@ -22,4 +22,4 @@ Solution 4 - python3:
 
   ∑𝑖=1𝑛𝑖= 𝑛(𝑛+1)/2 = 1/2* 𝑛^2+ 1/2 * 𝑛
 
-  As 𝑛 gets large, the 𝑛2 term will dominate the 𝑛 term and the 1/2 can be ignored. Therefore, this solution is 𝑂(𝑛2).
+  As 𝑛 gets large, the 𝑛^2 term will dominate the 𝑛 term and the 1/2 can be ignored. Therefore, this solution is 𝑂(𝑛2).
