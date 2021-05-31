@@ -7,7 +7,7 @@
 # Execution Time:
 
 pyspark: 
-5.01 MicroSeconds = 0.00000501 Seconds
+2 µs (microSeconds) = 0.00000501 Seconds
 
 python3:
-354 MicroSeconds = 0.00038 Seconds
+354 µs (microSeconds) = 0.00038 Seconds
