@@ -18,7 +18,7 @@ Solution 3 - NLP:
 Solution 4 - python3: 
   2 µs = 2e-6 sec. Big O (n^2) 
 
-  To analyze this algorithm, we need to note that each of the n characters in w1 will cause an iteration through up to n characters in the list from w2. Each of the n positions in the list will be visited once to match a character from w1. The number of visits then becomes the sum of the integers from 1 to n. We stated earlier that this can be written as
+ NOTE - Solution 4: To analyze this algorithm, we need to note that each of the n characters in w1 will cause an iteration through up to n characters in the list from w2. Each of the n positions in the list will be visited once to match a character from w1. The number of visits then becomes the sum of the integers from 1 to n. We stated earlier that this can be written as
 
   ∑𝑖=1𝑛𝑖= 𝑛(𝑛+1)/2 = 1/2* 𝑛^2+ 1/2 * 𝑛
 
