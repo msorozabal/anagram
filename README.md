@@ -31,6 +31,6 @@
          In the end, iterate over each letter, making sure the counts are equal.
 
 
-## Solution 05 - R
+## Solution 05 - R:
 
 You can run online code snippet in -> https://rdrr.io/snippets/
