@@ -33,10 +33,12 @@
 
 ## Solution 05 - R SORT: 
 
-    0.294 sec
+ 0.294 sec
 
 You can run online code snippet in -> https://rdrr.io/snippets/
 
 ## Solution 6 - R Hash: 
+
+0.0001568794 secs
 
 You can run online code snippet in -> https://rdrr.io/snippets/
