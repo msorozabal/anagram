@@ -21,12 +21,16 @@ anagram <- function(word,anagrams) {
       }
     }
 }
+start_time <- Sys.time()
 
 test_that("is anagram", {
   subject <- "samymassitas"
-  candidates <- c("massitassamy","nosamy","samymassisat")
+  candidates <- c("massitassamy","nosamy","samymassisat","ssssss","samysamsitas")
   expect_equal(anagram(subject, candidates),
                c())
 })
+
+end_time <- Sys.time()
+end_time - start_time
 
 message("passed: anagram")
