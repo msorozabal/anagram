@@ -29,3 +29,8 @@
   
  NOTE - Solution 04: loop over both strings, counting the occurrences of each letter.
          In the end, iterate over each letter, making sure the counts are equal.
+
+
+## Solution 05 - R
+
+you can run online code snippet in -> https://rdrr.io/snippets/
