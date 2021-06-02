@@ -37,7 +37,7 @@
 
 You can run online code snippet in -> https://rdrr.io/snippets/
 
-## Solution 6 - R Hash: 
+## Solution 6 - R HASH: 
 
 0.0001568794 secs
 
