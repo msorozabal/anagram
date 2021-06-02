@@ -33,4 +33,4 @@
 
 ## Solution 05 - R
 
-you can run online code snippet in -> https://rdrr.io/snippets/
+You can run online code snippet in -> https://rdrr.io/snippets/
