@@ -31,13 +31,13 @@
          In the end, iterate over each letter, making sure the counts are equal.
 
 
-## Solution 05 - R SORT: 
+## Solution 05 - R sort: 
 
  0.294 sec
 
 You can run online code snippet in -> https://rdrr.io/snippets/
 
-## Solution 6 - R HASH: 
+## Solution 06 - R hash: 
 
 0.0001568794 secs
 
