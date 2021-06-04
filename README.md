@@ -39,6 +39,6 @@ You can run online code snippet in -> https://rdrr.io/snippets/
 
 ## Solution 06 - R hash: 
 
-0.0001568794 secs
+0.0001568794 secs Big 𝑂(𝑛)
 
 You can run online code snippet in -> https://rdrr.io/snippets/
